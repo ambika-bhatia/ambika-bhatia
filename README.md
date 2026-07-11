@@ -1,6 +1,6 @@
 # Hi, I'm Ambika Bhatia.
 
-Aspiring Software Engineer
+B.Tech Student | Exploring Software Development
 
 **Languages:** C++, Python, SQL
 
