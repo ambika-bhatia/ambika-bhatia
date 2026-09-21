@@ -1,8 +1,8 @@
 # Hi, I'm Ambika Bhatia.
 
-B.Tech Student | Building Software, One Project at a Time
+B.Tech Student | Turning Ideas into Code
 
 **Languages:** C++, Python, SQL
 
-Learning by building.
+Learning. Building. Improving.
 
